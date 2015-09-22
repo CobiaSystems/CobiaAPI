@@ -26,11 +26,11 @@ API
 * [Account](https://github.com/CobiaSystems/api/wiki/Account)
 
 
-Integration User Guides
+Guides
 -----------------
 
-* [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Adding-Competitors)
-* [Logging In](https://github.com/CobiaSystems/api/wiki/Logging-In)
+* [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Guide:-Adding-Competitors)
+* [Logging In](https://github.com/CobiaSystems/api/wiki/Guide:-Logging-In)
 
 Help us make it better
 ----------------------
