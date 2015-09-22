@@ -24,6 +24,7 @@ API
 -----------------------
 
 * [Account](https://github.com/CobiaSystems/api/wiki/Account)
+* [Premium](https://github.com/CobiaSystems/api/wiki/Premium)
 
 
 Guides
