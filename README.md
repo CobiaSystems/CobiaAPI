@@ -32,7 +32,7 @@ Guides
 * [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Guide:-Adding-Competitors)
 * [Logging In](https://github.com/CobiaSystems/api/wiki/Guide:-Logging-In)
 
-Help us make it better
+Feedback is Welcome
 ----------------------
 
-Please tell us how we can make the API better. If you have a specific feature request or if you found a bug, please use GitHub issues. Fork these docs and send a pull request with improvements.
+Please let us know how the experience of using our API is. If you have a feature request or found a bug, you can create an issue on this repository. Alternatively, you can fork and create a pull request if you feel inclined to help the documentation.
