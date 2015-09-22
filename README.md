@@ -1,7 +1,7 @@
 API Documentation
 ===
 
-This is a REST-style API that uses JSON for serialization and OAuth for authentication
+This is a REST-style API that uses JSON for serialization and OAuth for authentication.
 
 Making a request
 ----------------
@@ -9,7 +9,7 @@ Making a request
 * All URLs are prefixed with `/rest/`
 * Any URLs with `/rest/admin/` will require a session that has been authenticated
 * Any URLs with `/rest/public/` are publically available, and do not require authentication
-
+* For more information, review the [Guide: Rest Style and Structure](https://github.com/CobiaSystems/api/wiki/Guide:-Rest-Style-and-Structure)
 Authentication
 --------------
 
