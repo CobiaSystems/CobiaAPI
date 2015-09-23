@@ -11,14 +11,14 @@ Making a Request
 * Any URLs with `/rest/public/` are publically available, and do not require a valid cobia token
 * For more information, review the [Guide: Rest Style and Structure](https://github.com/CobiaSystems/api/wiki/Guide:-Rest-Style-and-Structure)
 
-API
------------------------
-
+Resources
+---
 * [Account](https://github.com/CobiaSystems/api/wiki/Account)
 * [Billing](https://github.com/CobiaSystems/api/wiki/Billing)
-* [Category](https://github.com/CobiaSystems/api/wiki/Category)
-* [Connect](https://github.com/CobiaSystems/api/wiki/Connect)
 * [Campaign](https://github.com/CobiaSystems/api/wiki/Campaign)
+* [Category](https://github.com/CobiaSystems/api/wiki/Category)
+* [Competitor](https://github.com/CobiaSystems/api/wiki/Competitor)
+* [Connect](https://github.com/CobiaSystems/api/wiki/Connect)
 * [Keyword](https://github.com/CobiaSystems/api/wiki/Keyword)
 * [Lead](https://github.com/CobiaSystems/api/wiki/Lead)
 * [Location](https://github.com/CobiaSystems/api/wiki/Location)
@@ -27,11 +27,10 @@ API
 
 
 Guides
------------------
-
+---
 * [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Guide:-Adding-Competitors)
 
 Feedback is Welcome
-----------------------
+---
 
 Please let us know how the experience of using our API is. If you have a feature request or found a bug, you can create an issue on this repository. Alternatively, you can fork and create a pull request if you feel inclined to help the documentation.
