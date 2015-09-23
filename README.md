@@ -7,14 +7,9 @@ Making a Request
 ----------------
 
 * All URLs are prefixed with `/rest/`
-* Any URLs with `/rest/admin/` will require a session that has been authenticated
-* Any URLs with `/rest/public/` are publically available, and do not require authentication
+* Any URLs with prefix `/rest/admin/` will require a valid cobia token
+* Any URLs with `/rest/public/` are publically available, and do not require a valid cobia token
 * For more information, review the [Guide: Rest Style and Structure](https://github.com/CobiaSystems/api/wiki/Guide:-Rest-Style-and-Structure)
-
-Errors
-------
-
-Errors are handled by a returned Status code NOT equal to 1, for example, 0 or 302. 
 
 API
 -----------------------
