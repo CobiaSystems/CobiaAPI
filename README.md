@@ -15,6 +15,14 @@ API
 -----------------------
 
 * [Account](https://github.com/CobiaSystems/api/wiki/Account)
+* [Billing](https://github.com/CobiaSystems/api/wiki/Billing)
+* [Category](https://github.com/CobiaSystems/api/wiki/Category)
+* [Connect](https://github.com/CobiaSystems/api/wiki/Connect)
+* [Campaign](https://github.com/CobiaSystems/api/wiki/Campaign)
+* [Keyword](https://github.com/CobiaSystems/api/wiki/Keyword)
+* [Lead](https://github.com/CobiaSystems/api/wiki/Lead)
+* [Location](https://github.com/CobiaSystems/api/wiki/Location)
+* [Profile](https://github.com/CobiaSystems/api/wiki/Profile)
 * [Premium](https://github.com/CobiaSystems/api/wiki/Premium)
 
 
