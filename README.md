@@ -29,7 +29,6 @@ API
 Guides
 -----------------
 
-* [Logging In](https://github.com/CobiaSystems/api/wiki/Guide:-Logging-In)
 * [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Guide:-Adding-Competitors)
 
 Feedback is Welcome
