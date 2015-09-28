@@ -28,6 +28,7 @@ Resources
 
 Guides
 ---
+* [Obtaining a Consumer Key + Secret](https://github.com/CobiaSystems/api/wiki/Guide:-Obtaining-A-Consumer-Key-And-Secret)
 * [Adding Competitors](https://github.com/CobiaSystems/api/wiki/Guide:-Adding-Competitors)
 
 Feedback is Welcome
